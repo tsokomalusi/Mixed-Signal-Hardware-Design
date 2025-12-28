@@ -10,7 +10,7 @@ The project demonstrates best practices in analog/digital partitioning, componen
 - **LTSpice** – Analog circuit simulation  
 - **STM32CubeIDE** – MCU pinout planning  
 - **draw.io** – System block diagram
-
+- **git and github** - version control system
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ## 🧱 System Block Diagram
 
