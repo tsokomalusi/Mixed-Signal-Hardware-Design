@@ -44,4 +44,17 @@ Key design considerations:
 - Power integrity and signal integrity
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+## 🧩 PCB Layout
+
+###  PCB All Layers
+<img width="542" height="547" alt="PCB_LAYOUT" src="https://github.com/user-attachments/assets/9f245c09-d3aa-4ac6-ae80-41007ddf267d" />
+
+### Top Layer
+<img width="527" height="550" alt="PCB_TOP" src="https://github.com/user-attachments/assets/3a0b897b-3f6c-4a99-b84d-34ac79908ab1" />
+
+### Bottom Layer
+<img width="489" height="547" alt="PCB_BOTTOM" src="https://github.com/user-attachments/assets/de7185ed-765e-4ecc-adfb-6042a626f963" />
+
+### 3D View
+<img width="1170" height="666" alt="mixed_signal_hw_pcb_3D" src="https://github.com/user-attachments/assets/9a8b5e06-d461-48ee-a876-4fe2cf8964ee" />
 
