@@ -65,3 +65,24 @@ PCB design highlights:
 - Via stitching, power puddles, keeping proper spacing between analog and digital circuits
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+## 🔬 LTSpice Simulation
+
+### AC Analysis Schematic
+<img width="529" height="502" alt="ac_analysis" src="https://github.com/user-attachments/assets/39745037-eed5-463e-b88f-beca50ab7fca" />
+
+### AC Analysis Response
+<img width="523" height="615" alt="ac_analysis_response" src="https://github.com/user-attachments/assets/347d5798-be5e-4ab1-952d-19ae0dcc0fe4" />
+
+### DC Operating Point Analysis
+<img width="528" height="550" alt="dc_operating_point_analysis" src="https://github.com/user-attachments/assets/e21ac5d3-27f6-46ee-85d3-f7da3001c535" />
+
+<img width="630" height="298" alt="DC_Operating_Point_Analysis" src="https://github.com/user-attachments/assets/ec5f391b-17d7-4bdc-8f33-b02e5110965c" />
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+
+
+
+
+
