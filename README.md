@@ -38,5 +38,10 @@ ADC circuirty
 DAC circuitry
 <img width="968" height="677" alt="dac" src="https://github.com/user-attachments/assets/a1e16953-524a-42c2-bc6d-3f37d5181a88" />
 
+Key design considerations:
+- Proper decoupling and grounding
+- Separation of analog and digital domains
+- Power integrity and signal integrity
+
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
