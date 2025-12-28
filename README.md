@@ -79,10 +79,16 @@ PCB design highlights:
 <img width="630" height="298" alt="DC_Operating_Point_Analysis" src="https://github.com/user-attachments/assets/ec5f391b-17d7-4bdc-8f33-b02e5110965c" />
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+## 📜 License
+This project is released for educational and portfolio purposes.
 
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+## 🙏 Acknowledgements
 
+This project was developed as part of hands-on learning inspired by the course:
 
-
-
-
+**“Mixed-Signal Hardware Design with KiCad”**  
+Instructor: **Philip Salmony**  
+Platform: **FEDEVEL Academy**  
+Website: https://www.fedevel.com
 
