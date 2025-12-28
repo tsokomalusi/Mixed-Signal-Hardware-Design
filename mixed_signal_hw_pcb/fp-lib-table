@@ -1,0 +1,5 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "DAC7563SDGSR")(type "KiCad")(uri "C:/Users/Asus/OneDrive/Documents/PCB_Design/Mixed-Signal-Hardware-Design/Libraries/Footprint_Symbol_Libraries/DAC7563SDGSR.pretty")(options "")(descr ""))
+  (lib (name "A_RGB")(type "KiCad")(uri "${KIPRJMOD}/A_RGB.pretty")(options "")(descr ""))
+)

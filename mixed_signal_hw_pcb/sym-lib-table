@@ -1,0 +1,5 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "ADC141S626_library")(type "KiCad")(uri "C:/Users/Asus/OneDrive/Documents/PCB_Design/Mixed-Signal-Hardware-Design/Libraries/Electronic_Symbol_Libraries/ADC141S626_library.kicad_sym")(options "")(descr ""))
+  (lib (name "Malusi_Tsoko_Libraries")(type "KiCad")(uri "C:/Users/Asus/OneDrive/Documents/PCB_Design/Mixed-Signal-Hardware-Design/Libraries/Electronic_Symbol_Libraries/Malusi_Tsoko_Libraries.kicad_sym")(options "")(descr ""))
+)

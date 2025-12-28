@@ -1,0 +1,116 @@
+Reference,Qty,Value,Exclude from BOM,Exclude from Board,Footprint,Datasheet,Manufacturer,Manufacturer Part Number
+Y200,1,16MHz,,,Crystal:Crystal_SMD_3225-4Pin_3.2x2.5mm,~,Epson,FA-238 16.000 MHz
+U401,1,MCP6001-OT,,,Package_TO_SOT_SMD:SOT-23-5,https://ww1.microchip.com/downloads/en/DeviceDoc/MCP6001-1R-1U-2-4-1-MHz-Low-Power-Op-Amp-DS20001733L.pdf,Microchip Technology,MCP6001T‑I/OT
+U400,1,DAC7563SDGSR,,,DAC7563SDGSR:SOIC-10,,Texas Instruments,DAC7563SDGSR
+U305,1,MCP6001-OT,,,Package_TO_SOT_SMD:SOT-23-5,https://ww1.microchip.com/downloads/en/DeviceDoc/MCP6001-1R-1U-2-4-1-MHz-Low-Power-Op-Amp-DS20001733L.pdf,Microchip Technology,MCP6001-OT
+U303,1,ADC141S626CIMM_NOPB,,,DAC7563SDGSR:SOIC-10,,Texas Instruments,ADC141S626CIMM
+U302,1,REF3033AIDBZ,,,Package_TO_SOT_SMD:SOT-23,http://www.ti.com/lit/ds/symlink/ref3033.pdf,Texas Instruments,REF3033AIDBZ
+U301,1,MCP6001-OT,,,Package_TO_SOT_SMD:SOT-23-5,https://ww1.microchip.com/downloads/en/DeviceDoc/MCP6001-1R-1U-2-4-1-MHz-Low-Power-Op-Amp-DS20001733L.pdf,Microchip Technology,MCP6001-OT
+U300,1,MCP6001-OT,,,Package_TO_SOT_SMD:SOT-23-5,https://ww1.microchip.com/downloads/en/DeviceDoc/MCP6001-1R-1U-2-4-1-MHz-Low-Power-Op-Amp-DS20001733L.pdf,Microchip Technology,MCP6001-OT
+U201,1,USBLC6-2SC6,,,Package_TO_SOT_SMD:SOT-23-6,https://www.st.com/resource/en/datasheet/usblc6-2.pdf,ON Semiconductor,USBLC6-2SC6
+U200,1,STM32F103RCT6,,,Package_QFP:LQFP-64_10x10mm_P0.5mm,https://www.st.com/resource/en/datasheet/stm32f103rc.pdf,STMicroelectronics,STM32F103RCT6
+U101,1,TLV62569DBV,,,Package_TO_SOT_SMD:SOT-23-5,http://www.ti.com/lit/ds/symlink/tlv62568.pdf,Texas Instruments,TLV62569DBV
+U100,1,HT7533-1,,,Package_TO_SOT_SMD:SOT-89-3,https://www.holtek.com/documents/10179/116711/HT75xx-1v250.pdf,Holtek Semiconductor,HT7533-1
+R405,1,49R9,,,Resistor_SMD:R_0603_1608Metric,~,YAGEO,RC0603FR-0749R9L
+R404,1,12K,,,Resistor_SMD:R_0603_1608Metric,~,YAGEO,RC0603FR-0712KL
+R403,1,22K,,,Resistor_SMD:R_0603_1608Metric,~,YAGEO,RC0603FR-0722KL
+R402,1,6K8,,,Resistor_SMD:R_0603_1608Metric,~,YAGEO,RC0603FR-076K8L
+R401,1,10K,,,Resistor_SMD:R_0603_1608Metric,~,YAGEO,RC0603FR-0710KL
+R400,1,0R,,,Resistor_SMD:R_0603_1608Metric,~,YAGEO,RC0603JR-070RL
+R309,1,0R,,,Resistor_SMD:R_0603_1608Metric,~,Yageo,RC0603JR-070RL
+R308,1,49R9,,,Resistor_SMD:R_0603_1608Metric,~,Yageo,RC0603FR-0749R9L
+R307,1,1K,,,Resistor_SMD:R_0603_1608Metric,~,Yageo,RC0603FR-071KL
+R306,1,1K,,,Resistor_SMD:R_0603_1608Metric,~,Yageo,RC0603FR-071KL
+R305,1,12K,,,Resistor_SMD:R_0603_1608Metric,~,Yageo,RC0603FR-0712KL
+R304,1,22K,,,Resistor_SMD:R_0603_1608Metric,~,Yageo,RC0603FR-0722KL
+R303,1,6K8,,,Resistor_SMD:R_0603_1608Metric,~,Yageo,RC0603FR-076K8L
+R302,1,2M2,,,Resistor_SMD:R_0805_2012Metric,~,Yageo,RC0805FR-072M2L
+R301,1,2M2,,,Resistor_SMD:R_0805_2012Metric,~,Yageo,RC0805FR-072M2L
+R300,1,1K,,,Resistor_SMD:R_0603_1608Metric,~,Yageo,RC0603FR-071KL
+R213,1,5K1,,,Resistor_SMD:R_0603_1608Metric,~,Yageo,RC0603FR-075K1L
+R212,1,5K1,,,Resistor_SMD:R_0603_1608Metric,~,Yageo,RC0603FR-075K1L
+R211,1,49R9,,,Resistor_SMD:R_0603_1608Metric,~,Yageo,RC0603FR-0749R9L
+R210,1,49R9,,,Resistor_SMD:R_0603_1608Metric,~,Yageo,RC0603FR-0749R9L
+R209,1,49R9,,,Resistor_SMD:R_0603_1608Metric,~,Yageo,RC0603FR-0749R9L
+R208,1,49R9,,,Resistor_SMD:R_0603_1608Metric,~,Yageo,RC0603FR-0749R9L
+R207,1,1K,,,Resistor_SMD:R_0603_1608Metric,~,Yageo,RC0603FR-071KL
+R206,1,1K,,,Resistor_SMD:R_0603_1608Metric,~,Yageo,RC0603FR-071KL
+R205,1,1K,,,Resistor_SMD:R_0603_1608Metric,~,Yageo,RC0603FR-071KL
+R204,1,10K,,,Resistor_SMD:R_0603_1608Metric,~,Yageo,RC0603FR-0710KL
+R203,1,1K5,,,Resistor_SMD:R_0603_1608Metric,~,Yageo,RC0603FR-071K5L
+R202,1,0R,,,Resistor_SMD:R_0603_1608Metric,~,Yageo,RC0603JR-070RL
+R201,1,10K,,,Resistor_SMD:R_0603_1608Metric,~,Yageo,RC0603FR-0710KL
+R200,1,10K,,,Resistor_SMD:R_0603_1608Metric,~,Yageo,RC0603FR-0710KL
+R105,1,1K,,,Resistor_SMD:R_0603_1608Metric,~,YAGEO,RC0603FR-071KL
+R104,1,1K,,,Resistor_SMD:R_0603_1608Metric,~,YAGEO,RC0603FR-071KL
+R103,1,1K,,,Resistor_SMD:R_0603_1608Metric,~,YAGEO,RC0603FR-071KL
+R102,1,22K,,,Resistor_SMD:R_0603_1608Metric,~,YAGEO,RC0603FR-0722KL
+R101,1,100K,,,Resistor_SMD:R_0603_1608Metric,~,YAGEO,RC0603FR-07100KL
+R100,1,10R,,,Resistor_SMD:R_0603_1608Metric,~,YAGEO,RC0603FR-0710RL
+L200,1,10n,,,Inductor_SMD:L_0603_1608Metric,~,Murata,LQW18AN10NJ00D
+L101,1,68u,,,Inductor_SMD:L_Sunlord_MWSA0603S,~,Sunlord,MWSA0603S-680K
+L100,1,10n,,,Inductor_SMD:L_0603_1608Metric,~,Sunlord,MWSA0603S-100J
+J400,1,DOSIN-801-0031,,,Connector_DIN:BNC,~,dosinconn,DOSIN-801-003
+J300,1,DOSIN-801-0031,,,Connector_DIN:BNC,~,dosinconn,DOSIN-801-003
+J201,1,2X5X1.27mm,,,Connector_PinHeader_1.27mm:PinHeader_2x05_P1.27mm_Vertical_SMD,~,Samtec,FTSH-105-01-L-DV-K
+J200,1,USB_C_Receptacle_USB2.0_16P,,,Connector_USB:USB_C_Receptacle_HRO_TYPE-C-31-M-12,https://www.usb.org/sites/default/files/documents/usb_type-c.zip,Korean Hroparts Elec,TYPE-C-31-M-12
+H4,1,MountingHole_Pad,Excluded from BOM,,MountingHole:MountingHole_3.2mm_M3_Pad_Via,~,,
+H3,1,MountingHole_Pad,Excluded from BOM,,MountingHole:MountingHole_3.2mm_M3_Pad_Via,~,,
+H2,1,MountingHole_Pad,Excluded from BOM,,MountingHole:MountingHole_3.2mm_M3_Pad_Via,~,,
+H1,1,MountingHole_Pad,Excluded from BOM,,MountingHole:MountingHole_3.2mm_M3_Pad_Via,~,,
+FL200,1,DLW21SN900SQ2L,,,Inductor_SMD:choke,https://productfinder.pulseelectronics.com/api/open/product-attachments/datasheet/ph9455.105nl,Murata Electronics,DLW21SN900SQ2L
+D400,1,PESD3V3L1BA.115,,,Diode_SMD:D_SOD-323,https://www.littelfuse.com/~/media/electronics/datasheets/tvs_diode_arrays/littelfuse_tvs_diode_array_sd_c_datasheet.pdf.pdf,Nexperia,"PESD3V3L1BA,115"
+D300,1,PESD3V3L1BA.115,,,Diode_SMD:D_SOD-323,https://www.littelfuse.com/~/media/electronics/datasheets/tvs_diode_arrays/littelfuse_tvs_diode_array_sd_c_datasheet.pdf.pdf,Nexperia,"PESD3V3L1BA,115"
+D205,1,SD05_SOD323,,,Diode_SMD:D_SOD-323,https://www.littelfuse.com/~/media/electronics/datasheets/tvs_diode_arrays/littelfuse_tvs_diode_array_sd_c_datasheet.pdf.pdf,Nexperia,"PESD3V3L1BA,115"
+D204,1,SD05_SOD323,,,Diode_SMD:D_SOD-323,https://www.littelfuse.com/~/media/electronics/datasheets/tvs_diode_arrays/littelfuse_tvs_diode_array_sd_c_datasheet.pdf.pdf,Nexperia,"PESD3V3L1BA,115"
+D203,1,SD05_SOD323,,,Diode_SMD:D_SOD-323,https://www.littelfuse.com/~/media/electronics/datasheets/tvs_diode_arrays/littelfuse_tvs_diode_array_sd_c_datasheet.pdf.pdf,Nexperia,"PESD3V3L1BA,115"
+D202,1,"PESD3V3L1BA,115",,,Diode_SMD:D_SOD-323,https://www.littelfuse.com/~/media/electronics/datasheets/tvs_diode_arrays/littelfuse_tvs_diode_array_sd_c_datasheet.pdf.pdf,Nexperia,"PESD3V3L1BA,115"
+D201,1,"PESD3V3L1BA,115",,,Diode_SMD:D_SOD-323,https://www.littelfuse.com/~/media/electronics/datasheets/tvs_diode_arrays/littelfuse_tvs_diode_array_sd_c_datasheet.pdf.pdf,Nexperia,"PESD3V3L1BA,115"
+D200,1,LED_ARGB,,,LED_SMD:LED_AAA3528LSEEZGKQBKS_KNB,~,Kingbright,AAA3528LSEEZGKQBKS
+D100,1,GREEN,,,Diode_SMD:D_0805_2012Metric,~,LITEON,LTST-C170FKT
+C406,1,100n,,,Capacitor_SMD:C_0603_1608Metric,~,YAGEO,CC0603ZRY5V7BB104
+C405,1,1n,,,Capacitor_SMD:C_0603_1608Metric,~,Vishay / Vitramon,VJ0603H102KEBAO34
+C404,1,150p,,,Capacitor_SMD:C_0603_1608Metric,~,Vishay / Vitramon,VJ0603A151JXAAC
+C403,1,1n,,,Capacitor_SMD:C_0603_1608Metric,~,Vishay / Vitramon,VJ0603H102KEBAO34
+C402,1,1u,,,Capacitor_SMD:C_0805_2012Metric,~,KYOCERA AVX,08055D105KAT2A
+C401,1,100n,,,Capacitor_SMD:C_0603_1608Metric,~,YAGEO,CC0603ZRY5V7BB104
+C400,1,10u,,,Capacitor_SMD:C_0805_2012Metric,~,KYOCERA AVX,0805X7R106KT1AT
+C315,1,10u,,,Capacitor_SMD:C_0805_2012Metric,~,KYOCERA AVX,0805X7R106KT1AT
+C314,1,100n,,,Capacitor_SMD:C_0603_1608Metric,~,YAGEO,CC0603ZRY5V7BB104
+C313,1,100n,,,Capacitor_SMD:C_0603_1608Metric,~,YAGEO,CC0603ZRY5V7BB104
+C312,1,10u,,,Capacitor_SMD:C_0805_2012Metric,~,KYOCERA AVX,0805X7R106KT1AT
+C311,1,100n,,,Capacitor_SMD:C_0603_1608Metric,~,YAGEO,CC0603ZRY5V7BB104
+C310,1,10u,,,Capacitor_SMD:C_0805_2012Metric,~,KYOCERA AVX,0805X7R106KT1AT
+C309,1,10u,,Excluded from board,Capacitor_SMD:C_0805_2012Metric,~,KYOCERA AVX,0805X7R106KT1AT
+C308,1,10u,,,Capacitor_SMD:C_0805_2012Metric,~,KYOCERA AVX,0805X7R106KT1AT
+C307,1,150p,,,Capacitor_SMD:C_0603_1608Metric,~,Vishay / Vitramon,VJ0603A151JXAAC
+C306,1,100n,,,Capacitor_SMD:C_0603_1608Metric,~,YAGEO,CC0603ZRY5V7BB104
+C305,1,150p,,,Capacitor_SMD:C_0603_1608Metric,~,Vishay / Vitramon,VJ0603A151JXAAC
+C304,1,1n,,,Capacitor_SMD:C_0603_1608Metric,~,Vishay / Vitramon,VJ0603H102KEBAO34
+C303,1,1n,,,Capacitor_SMD:C_0603_1608Metric,~,Vishay / Vitramon,VJ0603H102KEBAO34
+C302,1,100n,,,Capacitor_SMD:C_0603_1608Metric,~,YAGEO,CC0603ZRY5V7BB104
+C301,1,100n,,,Capacitor_SMD:C_0603_1608Metric,~,YAGEO,CC0603ZRY5V7BB104
+C300,1,150p,,,Capacitor_SMD:C_0603_1608Metric,~,Vishay / Vitramon,VJ0603A151JXAAC
+C213,1,100n,,,Capacitor_SMD:C_0603_1608Metric,~,YAGEO,CC0603ZRY5V7BB104
+C212,1,100n,,,Capacitor_SMD:C_0603_1608Metric,~,YAGEO,CC0603ZRY5V7BB104
+C211,1,100n,,,Capacitor_SMD:C_0603_1608Metric,~,YAGEO,CC0603ZRY5V7BB104
+C210,1,10p,,,Capacitor_SMD:C_0603_1608Metric,~,Vishay / Vitramon,VJ0603A100FXBAC
+C209,1,10p,,,Capacitor_SMD:C_0603_1608Metric,~,Vishay / Vitramon,VJ0603A100FXBAC
+C208,1,1u,,,Capacitor_SMD:C_0805_2012Metric,~,KYOCERA AVX,08055D105KAT2A
+C207,1,1u,,,Capacitor_SMD:C_0805_2012Metric,~,KYOCERA AVX,08055D105KAT2A
+C206,1,10n,,,Capacitor_SMD:C_0603_1608Metric,~,Vishay / Vitramon,VJ0603Y103KXJAC31X
+C205,1,100n,,,Capacitor_SMD:C_0603_1608Metric,~,YAGEO,CC0603ZRY5V7BB104
+C204,1,100n,,,Capacitor_SMD:C_0603_1608Metric,~,YAGEO,CC0603ZRY5V7BB104
+C203,1,100n,,,Capacitor_SMD:C_0603_1608Metric,~,YAGEO,CC0603ZRY5V7BB104
+C202,1,100n,,,Capacitor_SMD:C_0603_1608Metric,~,YAGEO,CC0603ZRY5V7BB104
+C201,1,100n,,,Capacitor_SMD:C_0603_1608Metric,~,YAGEO,CC0603ZRY5V7BB104
+C200,1,10u,,,Capacitor_SMD:C_0805_2012Metric,~,KYOCERA AVX,0805X7R106KT1AT
+C108,1,100n,,,Capacitor_SMD:C_0603_1608Metric,~,YAGEO,CC0603ZRY5V7BB104
+C107,1,22u,,,Capacitor_SMD:C_0805_2012Metric,~,KYOCERA AVX,0805YD226MAT2A
+C106,1,DNP,,,Capacitor_SMD:C_0805_2012Metric,~,,
+C105,1,22u,,,Capacitor_SMD:C_0805_2012Metric,~,KYOCERA AVX,0805YD226MAT2A
+C104,1,22u,,,Capacitor_SMD:C_0805_2012Metric,~,KYOCERA AVX,0805YD226MAT2A
+C103,1,22u,,,Capacitor_SMD:C_0805_2012Metric,~,KYOCERA AVX,0805YD226MAT2A
+C102,1,22u,,,Capacitor_SMD:C_0805_2012Metric,~,KYOCERA AVX,0805YD226MAT2A
+C101,1,1u,,,Capacitor_SMD:C_0805_2012Metric,~,KYOCERA AVX,08055D105KAT2A
+C100,1,1u,,,Capacitor_SMD:C_0805_2012Metric,~,KYOCERA AVX,08055D105KAT2A
