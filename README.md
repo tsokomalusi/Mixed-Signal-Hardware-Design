@@ -19,5 +19,5 @@ Refined version
 <img width="853" height="481" alt="block_diagram_refined" src="https://github.com/user-attachments/assets/2bce83ed-b713-46d3-b661-487e8f5b001a" />
 
 ## 📐 Schematic Design
+<img width="963" height="685" alt="root" src="https://github.com/user-attachments/assets/3625d398-3268-436a-9736-85ebfcaaa721" />
 
-![root_schematic](mixed_signal_hw_pcb/mixed_signal_hw_pcb.svg)
