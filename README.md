@@ -58,3 +58,10 @@ Key design considerations:
 ### 3D View
 <img width="1170" height="666" alt="mixed_signal_hw_pcb_3D" src="https://github.com/user-attachments/assets/9a8b5e06-d461-48ee-a876-4fe2cf8964ee" />
 
+PCB design highlights:
+- Footprint creation
+- Controlled impedance traces
+- Avoiding: crosstalk, coupling, ground loops, inductance and radiation
+- Via stitching, power puddles, keeping proper spacing between analog and digital circuits
+
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
