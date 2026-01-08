@@ -46,11 +46,11 @@ Key design considerations:
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ## 🧩 PCB Layout
 
-### PCB STACKUP 
-TOP LAYER :     SIG/POWER
-IN1 LAYER:      GND
-IN2 LAYER:      GND
-BOTTOM LAYER:   SIG/POWER
+PCB STACKUP 
+- TOP LAYER :     SIG/POWER
+- IN1 LAYER:      GND
+- IN2 LAYER:      GND
+- BOTTOM LAYER:   SIG/POWER
 
 ###  PCB All Layers
 <img width="542" height="547" alt="PCB_LAYOUT" src="https://github.com/user-attachments/assets/9f245c09-d3aa-4ac6-ae80-41007ddf267d" />
