@@ -21,6 +21,10 @@ Refined version
 <img width="853" height="481" alt="block_diagram_refined" src="https://github.com/user-attachments/assets/2bce83ed-b713-46d3-b661-487e8f5b001a" />
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+## 🧩 Pinout Planning
+
+<img width="637" height="450" alt="mixed-signal-pinout_planning" src="https://github.com/user-attachments/assets/e9afd995-8df8-49dd-9d85-57518875dd30" />
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ## 📐 Schematic Design
 
 Root Sheet
